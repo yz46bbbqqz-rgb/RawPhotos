@@ -9,7 +9,7 @@
 
 基于 Electron + Vue 3 构建 · Windows 桌面应用
 
-[官网](https://nexus.apimf.top) · [社区支持](https://linux.do) · QQ 群 `1105572960`
+[官网](https://nexus.apimf.top) · [社区支持](https://linux.do)
 
 </div>
 
@@ -219,7 +219,6 @@ RawPhotos/
 欢迎到 [linux.do](https://linux.do) 交流、分享与反馈。
 
 - 🌐 官网：<https://nexus.apimf.top>
-- 👥 QQ 群：`1105572960`
 
 ---
 
