@@ -1,0 +1,21 @@
+{
+  "name": "rawphotos",
+  "version": "1.1.0",
+  "description": "RawPhotos · AI 文生图/文生视频桌面应用（多接口可配置，OpenAI 兼容）",
+  "author": "RawPhotos",
+  "main": "./out/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "dist:win": "electron-vite build && electron-builder --win"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "electron": "^42.5.1",
+    "electron-builder": "^26.15.3",
+    "electron-vite": "^5.0.0",
+    "marked": "^18.0.5",
+    "vue": "^3.5.39"
+  }
+}

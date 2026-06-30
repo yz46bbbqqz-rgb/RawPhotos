@@ -1,0 +1,22 @@
+appId: com.rawphotos.app
+productName: RawPhotos
+directories:
+  output: release
+  buildResources: build
+files:
+  - out/**/*
+  - package.json
+  - resources/icon.png
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  icon: build/icon.png
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: RawPhotos
