@@ -4,6 +4,12 @@
 
 **AI 文生图 / 文生视频 / 图生图 / AI 对话 桌面应用**
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
+[![Release](https://img.shields.io/github/v/release/yz46bbbqqz-rgb/RawPhotos?color=success)](https://github.com/yz46bbbqqz-rgb/RawPhotos/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/yz46bbbqqz-rgb/RawPhotos/total?color=brightgreen)](https://github.com/yz46bbbqqz-rgb/RawPhotos/releases)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
+[![Stars](https://img.shields.io/github/stars/yz46bbbqqz-rgb/RawPhotos?style=flat&color=yellow)](https://github.com/yz46bbbqqz-rgb/RawPhotos/stargazers)
+
 通过任意 **OpenAI 兼容的中转 / 聚合代理接口**，在一个桌面端完成出图、出片、图生图与 AI 对话，
 内置多接口管理、用量统计、中转额度、运行日志与主题系统。
 
