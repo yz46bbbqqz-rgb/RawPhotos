@@ -9,7 +9,7 @@
 
 基于 Electron + Vue 3 构建 · Windows 桌面应用
 
-[官网](https://nexus.apimf.top) · [社区支持](https://linux.do)
+[社区支持](https://linux.do)
 
 </div>
 
@@ -98,7 +98,7 @@ npm run dev
 | 字段 | 说明 | 示例 |
 | --- | --- | --- |
 | 接口名称 | 自定义备注 | `中转接口` / `gpt` |
-| Base URL | OpenAI 兼容地址，通常以 `/v1` 结尾 | `https://kiro.apimf.top/v1` |
+| Base URL | OpenAI 兼容地址，通常以 `/v1` 结尾 | `https://your-relay-host.com/v1` |
 | API Key | 接口密钥 | `sk-...` |
 | 图片模型 | 文生图模型 | `grok-imagine-image` / `flux` |
 | 视频模型 | 文生视频模型（留空则不出片） | `grok-imagine-video` |
@@ -217,8 +217,6 @@ RawPhotos/
 ## 💬 社区支持
 
 欢迎到 [linux.do](https://linux.do) 交流、分享与反馈。
-
-- 🌐 官网：<https://nexus.apimf.top>
 
 ---
 
